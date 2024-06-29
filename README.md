@@ -1,4 +1,6 @@
 ## Hi there 👋
+I'm Soaham from India, a passionate developer with a knack for creating intuitive user experiences. With a background in engineering, I specialize in web development and responsive design. My work reflects a commitment to innovation and user-centric design.My mission is to build seamless digital experiences that make a positive impact on users' lives. Welcome to my portfolio—let's create something amazing together!
+
 
 <!--
 **SoahamSur/SoahamSur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
